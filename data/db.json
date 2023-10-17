@@ -1,40 +1,40 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "My First Post",
-            "daytime": "July 01, 2021 11:17:36 AM",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
-        },
-        {
-            "id": 2,
-            "title": "My 2nd Post",
-            "daytime": "July 01, 2021 11:17:36 AM",
-            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
-        },
-        {
-            "id": 3,
-            "title": "Another Post",
-            "daytime": "August 15, 2021 03:45:12 PM",
-            "body": "This is another example post with some sample content. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-        },
-        {
-            "id": 4,
-            "title": "Exciting News",
-            "daytime": "September 10, 2021 09:30:00 AM",
-            "body": "Exciting news to share in this post! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, ex, mollitia, quisquam consequatur voluptatibus laboriosam sed at animi."
-        },
-        {
-            "id": 5,
-            "title": "A Great Story",
-            "daytime": "October 25, 2021 04:20:55 PM",
-            "body": "Once upon a time in a land far, far away, there was a great story waiting to be told. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-        },
-        {
-            "id": 6,
-            "title": "Tech Update",
-            "daytime": "November 12, 2021 08:15:21 AM",
-            "body": "The latest tech update is here! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, repudiandae, officia ut dolorem deserunt velit consectetur nam ex veritatis."
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "daytime": "October 17 ,2023 3:46:46 PM",
+      "body": "Aasd"
+    },
+    {
+      "id": 2,
+      "title": "ANiket ANiket Aniket4",
+      "daytime": "October 17 ,2023 3:48:57 PM",
+      "body": "Aniket 1234"
+    },
+    {
+      "id": 3,
+      "title": "2",
+      "daytime": "October 17 ,2023 3:51:46 PM",
+      "body": "2"
+    },
+    {
+      "id": 4,
+      "title": "3r",
+      "daytime": "October 17 ,2023 4:01:24 PM",
+      "body": "3r"
+    },
+    {
+      "id": 5,
+      "title": "42343",
+      "daytime": "October 17 ,2023 4:00:40 PM",
+      "body": "42343"
+    },
+    {
+      "id": 6,
+      "title": "5asras",
+      "daytime": "October 17 ,2023 4:01:33 PM",
+      "body": "5asfsafas"
+    }
+  ]
 }
