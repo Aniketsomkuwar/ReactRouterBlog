@@ -5,13 +5,13 @@ import Nav from "./LayoutComponents/Nav";
 import Footer from "./LayoutComponents/Footer";
 import { Outlet } from 'react-router-dom';
 
-const Layout = ({ search, setSearch }) => {
+const Layout = () => {
     return (
 
 
         <div className="App">
-            <Header title={"React Js Blog".toUpperCase()} />
-            <Nav search={search} setSearch={setSearch} />
+            <Header />
+            <Nav />
             <Outlet />
             <Footer />
         </div>

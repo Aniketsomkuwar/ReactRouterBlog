@@ -1,6 +1,8 @@
 import React from 'react';
-
-const NewPost = ({ handleSubmit, postTitle, setPostTitle, postBody, setPostBody }) => {
+import { useContext } from 'react';
+import DataContext from '../../context/DataContext';
+const NewPost = () => {
+    const { handleSubmit, postTitle, setPostTitle, postBody, setPostBody } = useContext(DataContext);
     return (
         <div className="container mx-auto p-4">
             <div className="bg-white border rounded-lg shadow-md p-4">
